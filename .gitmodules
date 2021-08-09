@@ -1,0 +1,3 @@
+[submodule "libqrtr-glib"]
+	path = libqrtr-glib
+	url = https://gitlab.freedesktop.org/mobile-broadband/libqrtr-glib.git
